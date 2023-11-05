@@ -21,7 +21,7 @@ public class Agenda {
      * Computes the events that occur on a given day
      *
      * @param day the day toi test
-     * @return and iteraror to the events that occur on that day
+     * @return a list of events that occur on that day
      */
     public List<Event> eventsInDay(LocalDate day) {
         // TODO : implémenter cette méthode
